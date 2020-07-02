@@ -17,7 +17,8 @@ Download the source code from the respository and open the .ino file using Ardui
 --------------------
 
 # Authors
---------------------
+-> Plusea - Initial Work
+-> Sidhant K
 # License
 --------------------
 # Acknowledgments

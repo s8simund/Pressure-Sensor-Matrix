@@ -1,2 +1,4 @@
 # Pressure-Sensor-Matrix
-Interactive Systems Project
+The main objective of the project is to understand and study the concept of fabric based wearable sensors. 
+
+# Prerequisites

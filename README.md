@@ -8,7 +8,7 @@ Can be downloaded from the offical arduino website.
 Download Link : https://www.arduino.cc/en/Main/Software
 
 2- Processing IDE - The Processing IDE is used to process the arduino codes. It can communicate with the Arduino IDE through serial communication. This way, we can send data from the Arduino to the Processing IDE and also from the Processing IDE to the Arduino.
-Download Link :https://processing.org/download/
+Download Link : https://processing.org/download/
 
 # Installing
 Download the source code from the respository and open the .ino file using Arduino IDE and .pde file using Processing IDE. Run the source code in arduino IDE. Open the serial monitor to check the result.
@@ -21,6 +21,6 @@ Download the source code from the respository and open the .ino file using Ardui
 # License
 --------------------
 # Acknowledgments
-Pressure Sensor Matrix by Plusea, https://www.instructables.com/id/Pressure-Sensor-Matrix/
+Pressure Sensor Matrix by Plusea, Link: https://www.instructables.com/id/Pressure-Sensor-Matrix/
 
 

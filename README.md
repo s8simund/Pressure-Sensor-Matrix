@@ -14,17 +14,27 @@ Download Link : https://processing.org/download/
 Download the source code from the respository and open the .ino file using Arduino IDE and .pde file using Processing IDE. Run the source code in arduino IDE. Open the serial monitor to check the result.
 Close the serial monitor and run the .pde source code in processing IDE.
 
-Note: Please make sure the both the codes are running on the same port.
+Note: Please make sure to check that both the codes are running on the same port.
 
 # Deployment
 The project can be deployed in any environment.
 
+## Built With
+[Arduino](https://www.arduino.cc/en/Main/Software/) - The IDE for development used 
+
+# Contributing
+Please read [CONTRIBUTING.md](https://github.com/s8simund/Pressure-Sensor-Matrix/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+# Versioning
+We use [SemVer](http://semver.org/) for versioning.
+
 # Authors
 -> Plusea - Initial Work
--> Sidhant Kumar Mund
+-> Sidhant Kumar Mund - s8simund
 
 # License
---------------------
+This project is licensed under the Saarland University - see the [LICENSE.md](https://github.com/s8simund/Pressure-Sensor-Matrix/blob/master/LISENCE.md) file for details
+
 # Acknowledgments
 Pressure Sensor Matrix by Plusea, Link: https://www.instructables.com/id/Pressure-Sensor-Matrix/
 

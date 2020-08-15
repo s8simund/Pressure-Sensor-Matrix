@@ -12,12 +12,16 @@ Download Link : https://processing.org/download/
 
 # Installing
 Download the source code from the respository and open the .ino file using Arduino IDE and .pde file using Processing IDE. Run the source code in arduino IDE. Open the serial monitor to check the result.
+Close the serial monitor and run the .pde source code in processing IDE.
+
+Note: Please make sure the both the codes are running on the same port.
 
 # Deployment
---------------------
+The project can be deployed in any environment.
 
 # Authors
 -> Plusea - Initial Work
+-> Sidhant Kumar Mund
 
 # License
 --------------------

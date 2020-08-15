@@ -36,7 +36,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 # Authors
 *Plusea - Initial Work
-*Sidhant Kumar Mund - s8simund
+*Sidhant Kumar Mund - [s8simund](https://github.com/s8simund)
 
 # License
 This project is licensed under the Saarland University - see the [LICENSE.md](https://github.com/s8simund/Pressure-Sensor-Matrix/blob/master/LISENCE.md) file for details

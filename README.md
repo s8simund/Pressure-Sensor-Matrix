@@ -1,6 +1,6 @@
 # Pressure-Sensor-Matrix
 The main objective of the project is to understand and study the concept of fabric based wearable sensors. This project implements a pressure measuring circuit using Arduino.
-A Pressure Sensor Matrix  is a device that simultaneously measures the pressure at each contact point between two touching surfaces. This results in a pressure profile map between the two surfaces. The circuit mainly consists of 4 different pressure points present in a 2 X 2 matrix (basically a square, as shown in figure below).The sensors are connected to a microprocessor. The amount of pressure exerted and the location of pressure exertion will be displayed in the monitor. 
+A Pressure Sensor Matrix  is a device that simultaneously measures the pressure at each contact point between two touching surfaces. This results in a pressure profile map between the two surfaces. The circuit mainly consists of 4 different pressure points present in a 2 X 2 matrix (basically a square, as shown in figure below).The sensors are connected to a microcontroller. The amount of pressure exerted and the location of pressure exertion will be displayed in the monitor. 
 
 # Prerequisites
 1- Arduio IDE - Programs written using arduino are called sketches. Running and uploading the sketches on to the arduino board is done using Ardunio IDE.
@@ -15,6 +15,12 @@ Download the source code from the respository and open the .ino file using Ardui
 Close the serial monitor and run the .pde source code in processing IDE.
 
 Note: Please make sure to check that both the codes are running on the same port.
+
+# Running the tests
+Tests are done physically using the microcontroller.
+
+# And coding style tests
+The coding is done using embedded C language for Arduino IDE and java for Processing IDE.
 
 # Deployment
 The project can be deployed in any environment.
